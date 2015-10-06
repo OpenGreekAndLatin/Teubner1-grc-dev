@@ -1,0 +1,67 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha016: [1;32mOK[0m
+kraken grc_teubner /cluster/tufts/perseus_ocr/nidaba/Teubner/Lysias_Orationes_1929 tif 12780 8
+Do 1. Okt 15:41:00 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+e1e5ef29-92e6-4b56-bd50-11e5e6d00588
+Do 1. Okt 19:23:18 EDT 2015
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/bin/nidaba", line 10, in <module>
+    sys.exit(main())
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 664, in __call__
+    return self.main(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 644, in main
+    rv = self.invoke(ctx)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 991, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 837, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 464, in invoke
+    return callback(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/cli.py", line 284, in status
+    state = batch.get_state()
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/nidaba.py", line 111, in get_state
+    batch = r.get(self.id)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/client.py", line 863, in get
+    return self.execute_command('GET', name)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/client.py", line 570, in execute_command
+    connection.send_command(*args)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 556, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 532, in send_packed_command
+    self.connect()
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 436, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/bin/nidaba", line 10, in <module>
+    sys.exit(main())
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 664, in __call__
+    return self.main(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 644, in main
+    rv = self.invoke(ctx)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 991, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 837, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 464, in invoke
+    return callback(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/cli.py", line 284, in status
+    state = batch.get_state()
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/nidaba.py", line 111, in get_state
+    batch = r.get(self.id)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/client.py", line 863, in get
+    return self.execute_command('GET', name)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/client.py", line 570, in execute_command
+    connection.send_command(*args)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 556, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 532, in send_packed_command
+    self.connect()
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 436, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+slurmstepd: _slurm_cgroup_destroy: problem deleting step cgroup path /cgroup/freezer/slurm/uid_30292/job_9064748/step_batch: Device or resource busy

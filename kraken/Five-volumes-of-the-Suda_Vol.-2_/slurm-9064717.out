@@ -1,0 +1,11 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha008: [1;32mOK[0m
+kraken grc_teubner /cluster/tufts/perseus_ocr/nidaba/Teubner/Five-volumes-of-the-Suda_Vol.-2_ tif 33525 9
+Do 1. Okt 11:12:46 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+e5be8fb3-7b48-4fc0-bcb0-5dfa7bb0a4b0
+Do 1. Okt 21:07:45 EDT 2015
+slurmstepd: _slurm_cgroup_destroy: problem deleting step cgroup path /cgroup/freezer/slurm/uid_30292/job_9064717/step_batch: Device or resource busy

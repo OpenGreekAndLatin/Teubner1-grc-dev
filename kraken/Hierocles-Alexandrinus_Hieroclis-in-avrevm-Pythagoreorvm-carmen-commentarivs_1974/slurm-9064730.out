@@ -1,0 +1,11 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@m3n45: [1;32mOK[0m
+kraken grc_teubner /cluster/tufts/perseus_ocr/nidaba/Teubner/Hierocles-Alexandrinus_Hieroclis-in-avrevm-Pythagoreorvm-carmen-commentarivs_1974 tif 5940 6
+Do 1. Okt 12:30:48 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+c690cbf0-a62d-4377-a556-7cecd7d7aa99
+Do 1. Okt 14:11:27 EDT 2015
+slurmstepd: _slurm_cgroup_destroy: problem deleting step cgroup path /cgroup/freezer/slurm/uid_30292/job_9064730/step_batch: Device or resource busy

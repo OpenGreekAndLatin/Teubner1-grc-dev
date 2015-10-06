@@ -1,5 +1,5 @@
 *.tif
 !*.otsu.tif
 *.uzn
-*.tif.xml
-*.tesseract.xml
+*.xml
+!*False.xml

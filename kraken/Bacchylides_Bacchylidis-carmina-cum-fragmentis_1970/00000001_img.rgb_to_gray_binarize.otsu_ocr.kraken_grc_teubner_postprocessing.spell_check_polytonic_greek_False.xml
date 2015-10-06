@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>00000001_img.rgb_to_gray_binarize.otsu.tif</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>kraken</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="1747" lry="2454" ulx="0" uly="0">
+      <graphic url="cbae04cf-abcc-451e-9051-9d910e0b8106/00000001_img.rgb_to_gray_binarize.otsu.tif"/>
+      <zone/>
+      <line lrx="1533" lry="2406" ulx="1504" uly="2235" xml:id="line_0" resp="#resp_0">
+        <zone lrx="1511" lry="2406" resp="#resp_1" type="grapheme" ulx="1504" uly="2235"><seg><g xml:id="grapheme_0" resp="#resp_1">1</g></seg><certainty degree="0.33" locus="value" target="#grapheme_0" resp="#resp_1"/></zone></line>
+      <line lrx="1504" lry="2345" ulx="1484" uly="360" xml:id="line_1" resp="#resp_0">
+        </line>
+      <line lrx="1491" lry="420" ulx="1462" uly="356" xml:id="line_2" resp="#resp_0">
+        <zone lrx="1475" lry="420" resp="#resp_1" type="grapheme" ulx="1462" uly="356"><seg><g xml:id="grapheme_1" resp="#resp_1">2</g></seg><certainty degree="0.42" locus="value" target="#grapheme_1" resp="#resp_1"/></zone></line>
+      <line lrx="1178" lry="1450" ulx="1164" uly="1364" xml:id="line_3" resp="#resp_0">
+        <zone lrx="1174" lry="1450" resp="#resp_1" type="grapheme" ulx="1164" uly="1364"><seg><g xml:id="grapheme_2" resp="#resp_1">1</g></seg><certainty degree="0.79" locus="value" target="#grapheme_2" resp="#resp_1"/></zone></line>
+      <line lrx="1165" lry="1455" ulx="1145" uly="1382" xml:id="line_4" resp="#resp_0">
+        <zone lrx="1157" lry="1455" resp="#resp_1" type="grapheme" ulx="1145" uly="1382"><seg><g xml:id="grapheme_3" resp="#resp_1">1</g></seg><certainty degree="0.88" locus="value" target="#grapheme_3" resp="#resp_1"/></zone></line>
+      <line lrx="554" lry="749" ulx="528" uly="648" xml:id="line_5" resp="#resp_0">
+        <zone lrx="540" lry="749" resp="#resp_1" type="grapheme" ulx="528" uly="648"><seg><g xml:id="grapheme_4" resp="#resp_1">1</g></seg><certainty degree="0.94" locus="value" target="#grapheme_4" resp="#resp_1"/></zone></line>
+      <line lrx="549" lry="787" ulx="498" uly="619" xml:id="line_6" resp="#resp_0">
+        <zone lrx="511" lry="787" resp="#resp_1" type="grapheme" ulx="498" uly="619"><seg><g xml:id="grapheme_5" resp="#resp_1">1</g></seg><certainty degree="0.90" locus="value" target="#grapheme_5" resp="#resp_1"/></zone></line>
+      <line lrx="511" lry="783" ulx="474" uly="648" xml:id="line_7" resp="#resp_0">
+        <zone lrx="486" lry="783" resp="#resp_1" type="grapheme" ulx="474" uly="648"><seg><g xml:id="grapheme_6" resp="#resp_1">1</g></seg><certainty degree="0.91" locus="value" target="#grapheme_6" resp="#resp_1"/></zone></line>
+      <line lrx="1747" lry="2452" ulx="0" uly="0" xml:id="line_8" resp="#resp_0">
+        <zone lrx="18" lry="2452" resp="#resp_1" type="grapheme" ulx="0" uly="0"><seg><g xml:id="grapheme_7" resp="#resp_1">E</g></seg><certainty degree="0.58" locus="value" target="#grapheme_7" resp="#resp_1"/></zone></line>
+    </surface>
+  </sourceDoc>
+</TEI>

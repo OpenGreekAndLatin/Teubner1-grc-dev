@@ -1,0 +1,11 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@omega025: [1;32mOK[0m
+kraken grc_teubner /cluster/tufts/perseus_ocr/nidaba/Teubner/Apicius_Apicii-librorum-10-qui-dicuntur-De-re-coquinaria-quae-extant_1922 tif 4320 8
+Do 1. Okt 07:10:13 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+bd44da5b-0bfc-4e15-8c95-14918385cfcd
+Do 1. Okt 08:27:41 EDT 2015
+slurmstepd: _slurm_cgroup_destroy: problem deleting step cgroup path /cgroup/freezer/slurm/uid_30292/job_9064685/step_batch: Device or resource busy
