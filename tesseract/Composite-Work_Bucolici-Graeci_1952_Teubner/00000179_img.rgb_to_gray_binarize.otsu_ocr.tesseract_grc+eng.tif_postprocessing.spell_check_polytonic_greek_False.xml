@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>00000179_img.rgb_to_gray_binarize.otsu.tif</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>tesseract</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="1445" lry="2221" ulx="0" uly="0">
+      <graphic url="beed6c21-5493-4fa1-bf7f-6183639a422a/00000179_img.rgb_to_gray_binarize.otsu.tif"/>
+      <zone/>
+      <line lrx="894" lry="538" ulx="374" uly="503" xml:id="line_0" resp="#resp_0">
+        <zone lrx="894" lry="538" type="segment" ulx="374" uly="503" xml:id="seg_0" resp="#resp_1"><certainty degree="0.75" locus="value" target="#seg_0" resp="#resp_1"/><zone lrx="408" lry="538" resp="#resp_1" type="grapheme" ulx="374" uly="505"><seg><g xml:id="grapheme_0" resp="#resp_1">Τ</g></seg><certainty degree="0.95" locus="value" target="#grapheme_0" resp="#resp_1"/></zone><zone lrx="445" lry="538" resp="#resp_1" type="grapheme" ulx="417" uly="505"><seg><g xml:id="grapheme_1" resp="#resp_1">Ε</g></seg><certainty degree="0.92" locus="value" target="#grapheme_1" resp="#resp_1"/></zone><zone lrx="486" lry="538" resp="#resp_1" type="grapheme" ulx="456" uly="504"><seg><g xml:id="grapheme_2" resp="#resp_1">Σ</g></seg><certainty degree="0.89" locus="value" target="#grapheme_2" resp="#resp_1"/></zone><zone lrx="531" lry="538" resp="#resp_1" type="grapheme" ulx="496" uly="504"><seg><g xml:id="grapheme_3" resp="#resp_1">Η</g></seg><certainty degree="0.90" locus="value" target="#grapheme_3" resp="#resp_1"/></zone><zone lrx="575" lry="538" resp="#resp_1" type="grapheme" ulx="541" uly="504"><seg><g xml:id="grapheme_4" resp="#resp_1">Ν</g></seg><certainty degree="0.97" locus="value" target="#grapheme_4" resp="#resp_1"/></zone><zone lrx="618" lry="538" resp="#resp_1" type="grapheme" ulx="587" uly="504"><seg><g xml:id="grapheme_5" resp="#resp_1">Ο</g></seg><certainty degree="0.94" locus="value" target="#grapheme_5" resp="#resp_1"/></zone><zone lrx="655" lry="538" resp="#resp_1" type="grapheme" ulx="630" uly="504"><seg><g xml:id="grapheme_6" resp="#resp_1">Ρ</g></seg><certainty degree="0.93" locus="value" target="#grapheme_6" resp="#resp_1"/></zone><zone lrx="696" lry="538" resp="#resp_1" type="grapheme" ulx="664" uly="504"><seg><g xml:id="grapheme_7" resp="#resp_1">Α</g></seg><certainty degree="0.91" locus="value" target="#grapheme_7" resp="#resp_1"/></zone><zone lrx="733" lry="538" resp="#resp_1" type="grapheme" ulx="706" uly="504"><seg><g xml:id="grapheme_8" resp="#resp_1">Ε</g></seg><certainty degree="0.90" locus="value" target="#grapheme_8" resp="#resp_1"/></zone><zone lrx="778" lry="538" resp="#resp_1" type="grapheme" ulx="744" uly="503"><seg><g xml:id="grapheme_9" resp="#resp_1">Σ</g></seg><certainty degree="0.75" locus="value" target="#grapheme_9" resp="#resp_1"/></zone><zone lrx="823" lry="537" resp="#resp_1" type="grapheme" ulx="788" uly="503"><seg><g xml:id="grapheme_10" resp="#resp_1">Ν</g></seg><certainty degree="0.91" locus="value" target="#grapheme_10" resp="#resp_1"/></zone><zone lrx="851" lry="537" resp="#resp_1" type="grapheme" ulx="836" uly="503"><seg><g xml:id="grapheme_11" resp="#resp_1">Ι</g></seg><certainty degree="0.90" locus="value" target="#grapheme_11" resp="#resp_1"/></zone><zone lrx="894" lry="537" resp="#resp_1" type="grapheme" ulx="862" uly="503"><seg><g xml:id="grapheme_12" resp="#resp_1">Α</g></seg><certainty degree="0.91" locus="value" target="#grapheme_12" resp="#resp_1"/></zone><zone lrx="894" lry="537" resp="#resp_1" type="grapheme" ulx="862" uly="503"><seg><g xml:id="grapheme_13" resp="#resp_1"/></seg></zone></zone></line>
+      <line lrx="1445" lry="2221" ulx="0" uly="0" xml:id="line_1" resp="#resp_0">
+        </line>
+    </surface>
+  </sourceDoc>
+</TEI>

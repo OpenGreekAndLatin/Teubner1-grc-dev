@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@omega009: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/artemidorusDaldianus_1963 tif 14940 0
+Fr 16. Okt 02:46:57 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+776bfd59-676e-4046-98ac-7c043f45ac4f
+Fr 16. Okt 07:05:50 EDT 2015

@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@omega020: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Five-volumes-of-the-Suda_Vol.-3_ tif 28890 10
+Do 15. Okt 14:33:45 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+49550ff2-6d53-4d6a-92d8-c9466de55af5
+Do 15. Okt 23:04:50 EDT 2015

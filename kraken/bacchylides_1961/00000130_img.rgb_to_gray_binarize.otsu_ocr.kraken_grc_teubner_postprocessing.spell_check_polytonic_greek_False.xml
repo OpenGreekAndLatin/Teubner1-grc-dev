@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>00000130_img.rgb_to_gray_binarize.otsu.tif</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>kraken</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="1590" lry="2436" ulx="0" uly="0">
+      <graphic url="f2ddeb1c-292b-4044-81ef-56174f264b65/00000130_img.rgb_to_gray_binarize.otsu.tif"/>
+      <zone/>
+      <line lrx="1245" lry="734" ulx="1225" uly="703" xml:id="line_0" resp="#resp_0">
+        <zone lrx="1239" lry="734" resp="#resp_1" type="grapheme" ulx="1225" uly="703"><seg><g xml:id="grapheme_0" resp="#resp_1">S</g></seg><certainty degree="0.41" locus="value" target="#grapheme_0" resp="#resp_1"/></zone></line>
+      <line lrx="1234" lry="772" ulx="1209" uly="656" xml:id="line_1" resp="#resp_0">
+        <zone lrx="1219" lry="772" resp="#resp_1" type="grapheme" ulx="1209" uly="656"><seg><g xml:id="grapheme_1" resp="#resp_1">1</g></seg><certainty degree="0.78" locus="value" target="#grapheme_1" resp="#resp_1"/></zone></line>
+      <line lrx="1229" lry="795" ulx="1169" uly="651" xml:id="line_2" resp="#resp_0">
+        <zone lrx="1182" lry="795" resp="#resp_1" type="grapheme" ulx="1169" uly="651"><seg><g xml:id="grapheme_2" resp="#resp_1">1</g></seg><certainty degree="0.89" locus="value" target="#grapheme_2" resp="#resp_1"/></zone></line>
+      <line lrx="1194" lry="806" ulx="1160" uly="623" xml:id="line_3" resp="#resp_0">
+        <zone lrx="1168" lry="806" resp="#resp_1" type="grapheme" ulx="1160" uly="623"><seg><g xml:id="grapheme_3" resp="#resp_1">:</g></seg><certainty degree="0.65" locus="value" target="#grapheme_3" resp="#resp_1"/></zone></line>
+      <line lrx="1163" lry="822" ulx="1134" uly="630" xml:id="line_4" resp="#resp_0">
+        <zone lrx="1139" lry="822" resp="#resp_1" type="grapheme" ulx="1134" uly="630"><seg><g xml:id="grapheme_4" resp="#resp_1">⁴</g></seg><certainty degree="0.23" locus="value" target="#grapheme_4" resp="#resp_1"/></zone></line>
+      <line lrx="533" lry="1339" ulx="523" uly="1303" xml:id="line_5" resp="#resp_0">
+        <zone lrx="535" lry="1339" resp="#resp_1" type="grapheme" ulx="523" uly="1303"><seg><g xml:id="grapheme_5" resp="#resp_1">1</g></seg><certainty degree="0.89" locus="value" target="#grapheme_5" resp="#resp_1"/></zone></line>
+      <line lrx="522" lry="1371" ulx="500" uly="1305" xml:id="line_6" resp="#resp_0">
+        <zone lrx="513" lry="1371" resp="#resp_1" type="grapheme" ulx="500" uly="1305"><seg><g xml:id="grapheme_6" resp="#resp_1">1</g></seg><certainty degree="0.91" locus="value" target="#grapheme_6" resp="#resp_1"/></zone></line>
+      <line lrx="450" lry="673" ulx="439" uly="605" xml:id="line_7" resp="#resp_0">
+        <zone lrx="445" lry="673" resp="#resp_1" type="grapheme" ulx="439" uly="605"><seg><g xml:id="grapheme_7" resp="#resp_1">.</g></seg><certainty degree="0.28" locus="value" target="#grapheme_7" resp="#resp_1"/></zone></line>
+      <line lrx="439" lry="693" ulx="422" uly="547" xml:id="line_8" resp="#resp_0">
+        </line>
+      <line lrx="432" lry="703" ulx="407" uly="559" xml:id="line_9" resp="#resp_0">
+        <zone lrx="414" lry="703" resp="#resp_1" type="grapheme" ulx="407" uly="559"><seg><g xml:id="grapheme_8" resp="#resp_1">.</g></seg><certainty degree="0.26" locus="value" target="#grapheme_8" resp="#resp_1"/></zone></line>
+      <line lrx="1590" lry="2436" ulx="0" uly="0" xml:id="line_10" resp="#resp_0">
+        <zone lrx="16" lry="2436" resp="#resp_1" type="grapheme" ulx="0" uly="0"><seg><g xml:id="grapheme_9" resp="#resp_1">2</g></seg><certainty degree="0.81" locus="value" target="#grapheme_9" resp="#resp_1"/></zone></line>
+    </surface>
+  </sourceDoc>
+</TEI>

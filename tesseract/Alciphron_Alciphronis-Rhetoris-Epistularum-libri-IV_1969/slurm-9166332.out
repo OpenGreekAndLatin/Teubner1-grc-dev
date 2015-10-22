@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha017: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Alciphron_Alciphronis-Rhetoris-Epistularum-libri-IV_1969 tif 7560 3
+Do 15. Okt 09:53:36 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+d36f0f3a-e7af-448f-a772-0b32d7ba8c2f
+Do 15. Okt 12:03:20 EDT 2015

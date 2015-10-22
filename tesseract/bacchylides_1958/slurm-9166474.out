@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha008: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/bacchylides_1958 tif 5850 2
+Fr 16. Okt 03:02:52 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+59f38905-8496-490c-81a7-4375d51a09bc
+Fr 16. Okt 04:42:58 EDT 2015

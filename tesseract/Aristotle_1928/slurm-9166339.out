@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha002: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Aristotle_1928 tif 5040 10
+Do 15. Okt 10:40:38 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+c9d4bbca-6c5c-422c-8582-74fc82757124
+Do 15. Okt 12:05:17 EDT 2015

@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha009: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Anaximenes-Lampsacenus_Anaximenis-Ars-rhetorica-:-quae-vulgo-fertur-Aristotelis-ad-Alexandrum_1966 tif 4770 5
+Do 15. Okt 09:53:35 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+b0dfadd4-988e-4d53-af6d-0528fd7bce33
+Do 15. Okt 11:15:54 EDT 2015

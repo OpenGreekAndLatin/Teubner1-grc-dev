@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>00000003_img.rgb_to_gray_binarize.otsu.tif</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>tesseract</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="2002" lry="2899" ulx="0" uly="0">
+      <graphic url="c92f0911-9a3f-4a89-9411-b622a888236c/00000003_img.rgb_to_gray_binarize.otsu.tif"/>
+      <zone/>
+      <line lrx="111" lry="790" ulx="102" uly="128" xml:id="line_0" resp="#resp_0">
+        <zone lrx="0" lry="0" resp="#resp_1" type="grapheme" ulx="0" uly="0"><seg><g xml:id="grapheme_0" resp="#resp_1"/></seg></zone></line>
+      <line lrx="2002" lry="2899" ulx="0" uly="0" xml:id="line_1" resp="#resp_0">
+        <zone lrx="375" lry="2566" type="segment" ulx="373" uly="2564" xml:id="seg_0" resp="#resp_1"><certainty degree="0.15" locus="value" target="#seg_0" resp="#resp_1"/><zone lrx="375" lry="2566" resp="#resp_1" type="grapheme" ulx="373" uly="2564"><seg><g xml:id="grapheme_1" resp="#resp_1">I</g></seg><certainty degree="0.15" locus="value" target="#grapheme_1" resp="#resp_1"/></zone></zone><zone lrx="1325" lry="384" resp="#resp_1" type="grapheme" ulx="375" uly="374"><seg><g xml:id="grapheme_2" resp="#resp_1"> </g></seg><certainty degree="1.00" locus="value" target="#grapheme_2" resp="#resp_1"/></zone><zone lrx="1341" lry="384" type="segment" ulx="1325" uly="374" xml:id="seg_1" resp="#resp_1"><certainty degree="0.37" locus="value" target="#seg_1" resp="#resp_1"/><zone lrx="1341" lry="384" resp="#resp_1" type="grapheme" ulx="1325" uly="374"><seg><g xml:id="grapheme_3" resp="#resp_1">J</g></seg><certainty degree="0.37" locus="value" target="#grapheme_3" resp="#resp_1"/></zone></zone></line>
+    </surface>
+  </sourceDoc>
+</TEI>

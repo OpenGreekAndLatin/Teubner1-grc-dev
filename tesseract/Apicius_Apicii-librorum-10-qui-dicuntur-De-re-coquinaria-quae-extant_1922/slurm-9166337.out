@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@m3n44: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Apicius_Apicii-librorum-10-qui-dicuntur-De-re-coquinaria-quae-extant_1922 tif 4320 8
+Do 15. Okt 10:22:37 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+6e8c4b6c-8762-4fac-a3f0-6029dc2649c9
+Do 15. Okt 11:35:08 EDT 2015

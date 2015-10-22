@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha007: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Bacchylides_Bacchylidis-carmina-cum-fragmentis_1970 tif 6210 1
+Do 15. Okt 12:34:14 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+aceff340-9359-4d82-bb4a-cdb29e063f20
+Do 15. Okt 14:19:42 EDT 2015

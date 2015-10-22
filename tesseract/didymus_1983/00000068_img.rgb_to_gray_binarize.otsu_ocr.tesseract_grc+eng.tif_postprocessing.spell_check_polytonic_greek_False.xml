@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>00000068_img.rgb_to_gray_binarize.otsu.tif</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>tesseract</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="1554" lry="2366" ulx="0" uly="0">
+      <graphic url="408188e5-093d-4bf6-9f05-272d7b938ba8/00000068_img.rgb_to_gray_binarize.otsu.tif"/>
+      <zone/>
+      <line lrx="814" lry="403" ulx="781" uly="165" xml:id="line_0" resp="#resp_0">
+        <zone lrx="0" lry="0" resp="#resp_1" type="grapheme" ulx="0" uly="0"><seg><g xml:id="grapheme_0" resp="#resp_1"/></seg></zone></line>
+      <line lrx="806" lry="438" ulx="770" uly="187" xml:id="line_1" resp="#resp_0">
+        <zone lrx="0" lry="0" resp="#resp_1" type="grapheme" ulx="0" uly="0"><seg><g xml:id="grapheme_1" resp="#resp_1"/></seg></zone></line>
+      <line lrx="810" lry="608" ulx="781" uly="319" xml:id="line_2" resp="#resp_0">
+        <zone lrx="810" lry="608" type="segment" ulx="781" uly="319" xml:id="seg_0" resp="#resp_1"><certainty degree="0.71" locus="value" target="#seg_0" resp="#resp_1"/><zone lrx="795" lry="608" resp="#resp_1" type="grapheme" ulx="781" uly="319"><seg><g xml:id="grapheme_2" resp="#resp_1">ξ</g></seg><certainty degree="0.71" locus="value" target="#grapheme_2" resp="#resp_1"/></zone><zone lrx="810" lry="608" resp="#resp_1" type="grapheme" ulx="794" uly="319"><seg><g xml:id="grapheme_3" resp="#resp_1">ξ</g></seg><certainty degree="0.71" locus="value" target="#grapheme_3" resp="#resp_1"/></zone></zone></line>
+      <line lrx="777" lry="593" ulx="768" uly="229" xml:id="line_3" resp="#resp_0">
+        <zone lrx="777" lry="593" type="segment" ulx="768" uly="229" xml:id="seg_1" resp="#resp_1"><certainty degree="0.51" locus="value" target="#seg_1" resp="#resp_1"/><zone lrx="777" lry="593" resp="#resp_1" type="grapheme" ulx="768" uly="229"><seg><g xml:id="grapheme_4" resp="#resp_1">i</g></seg><certainty degree="0.51" locus="value" target="#grapheme_4" resp="#resp_1"/></zone></zone></line>
+      <line lrx="768" lry="510" ulx="760" uly="368" xml:id="line_4" resp="#resp_0">
+        <zone lrx="768" lry="510" type="segment" ulx="760" uly="368" xml:id="seg_2" resp="#resp_1"><certainty degree="0.73" locus="value" target="#seg_2" resp="#resp_1"/><zone lrx="768" lry="510" resp="#resp_1" type="grapheme" ulx="760" uly="368"><seg><g xml:id="grapheme_5" resp="#resp_1">i</g></seg><certainty degree="0.73" locus="value" target="#grapheme_5" resp="#resp_1"/></zone></zone></line>
+      <line lrx="1554" lry="2366" ulx="0" uly="0" xml:id="line_5" resp="#resp_0">
+        <zone lrx="1182" lry="2339" type="segment" ulx="43" uly="22" xml:id="seg_3" resp="#resp_1"><certainty degree="0.39" locus="value" target="#seg_3" resp="#resp_1"/><zone lrx="1005" lry="593" resp="#resp_1" type="grapheme" ulx="994" uly="499"><seg><g xml:id="grapheme_6" resp="#resp_1">[</g></seg><certainty degree="0.49" locus="value" target="#grapheme_6" resp="#resp_1"/></zone><zone lrx="1030" lry="619" resp="#resp_1" type="grapheme" ulx="1001" uly="297"><seg><g xml:id="grapheme_7" resp="#resp_1">δ</g></seg><certainty degree="0.39" locus="value" target="#grapheme_7" resp="#resp_1"/></zone><zone lrx="1035" lry="696" resp="#resp_1" type="grapheme" ulx="1018" uly="336"><seg><g xml:id="grapheme_8" resp="#resp_1">ὲ</g></seg><certainty degree="0.48" locus="value" target="#grapheme_8" resp="#resp_1"/></zone><zone lrx="1182" lry="635" resp="#resp_1" type="grapheme" ulx="1115" uly="181"><seg><g xml:id="grapheme_9" resp="#resp_1">νῖ</g></seg><certainty degree="0.48" locus="value" target="#grapheme_9" resp="#resp_1"/></zone></zone></line>
+    </surface>
+  </sourceDoc>
+</TEI>

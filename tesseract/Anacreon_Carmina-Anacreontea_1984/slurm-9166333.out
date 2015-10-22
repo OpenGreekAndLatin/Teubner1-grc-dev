@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha002: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Anacreon_Carmina-Anacreontea_1984 tif 2700 4
+Do 15. Okt 09:53:37 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+d1a61736-cc39-40df-885e-b1b9476e497b
+Do 15. Okt 10:40:26 EDT 2015

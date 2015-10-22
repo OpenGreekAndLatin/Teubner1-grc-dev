@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha006: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Euripides_Euripidis-Medea_1939 tif 2520 1
+Do 15. Okt 13:55:54 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+d5ca77ee-3517-4cd8-ac1e-31ea2f1bea1e
+Do 15. Okt 14:38:09 EDT 2015

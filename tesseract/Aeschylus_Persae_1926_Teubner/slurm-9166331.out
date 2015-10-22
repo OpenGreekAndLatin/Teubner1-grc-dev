@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha026: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Aeschylus_Persae_1926_Teubner tif 2160 2
+Do 15. Okt 09:53:04 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+7d00953e-7575-4dbd-86ef-f53322112ca9
+Do 15. Okt 10:29:34 EDT 2015

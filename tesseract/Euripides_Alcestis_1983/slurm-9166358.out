@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha009: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Euripides_Alcestis_1983 tif 2340 14
+Do 15. Okt 13:31:12 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+23250670-8baf-49fc-9cb3-1a4ad20b1d0b
+Do 15. Okt 14:10:35 EDT 2015

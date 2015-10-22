@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha017: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/ammonius_1966 tif 6480 12
+Fr 16. Okt 02:21:14 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+427db53e-882f-4ddf-b380-b25eae76a715
+Fr 16. Okt 04:12:39 EDT 2015

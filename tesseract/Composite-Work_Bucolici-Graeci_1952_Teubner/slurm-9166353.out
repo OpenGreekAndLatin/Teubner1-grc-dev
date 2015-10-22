@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@omega012: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Composite-Work_Bucolici-Graeci_1952_Teubner tif 8820 9
+Do 15. Okt 12:46:44 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+beed6c21-5493-4fa1-bf7f-6183639a422a
+Do 15. Okt 15:20:41 EDT 2015
